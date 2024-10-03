@@ -34,7 +34,6 @@
       position: absolute;
       width: 60px;
       height: 100px;
-      background-image: url('https://img.icons8.com/emoji/100/car-emoji.png');
       background-size: cover;
       bottom: 20px;
       left: calc(50% - 30px); /* Start at the middle */
